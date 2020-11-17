@@ -8,7 +8,7 @@ if (version_compare(PHP_VERSION, '5.3.7', '<')) {
     require_once("libraries/password_compatibility_library.php");
 }
 
-// include the configs / constants for the database connection
+// include the configs / constants for the database connectiones
 require_once("config/db.php");
 
 // load the login class
