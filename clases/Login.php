@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Class login
+ *s Class logins
  * handles the user's login and logout process
  */
 class Login
